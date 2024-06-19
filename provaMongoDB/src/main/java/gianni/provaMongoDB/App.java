@@ -48,7 +48,7 @@ public class App
 			}
 
 			for (Document doct : doc2) {
-				System.out.println("caso AND" + doct.toJson());
+				System.out.println("caso AND" + doct.toJson()); 
 			}
 
 			// inserisce document
